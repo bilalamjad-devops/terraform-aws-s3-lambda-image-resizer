@@ -4,15 +4,18 @@
 
 Steps:
 1. terraform apply
-2 See Results
+2. See Results
 - Buckets
 - Lambda
 - SNS
+
 3. Test
+
 - Upload image
 - image uploaded to resized bucket
 - sns notification
 - cloudwatch logs
+
 4. terraform destroy
 
 
