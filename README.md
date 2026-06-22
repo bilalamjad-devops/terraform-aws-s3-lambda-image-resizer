@@ -20,12 +20,25 @@ Steps:
 
 
 
-step 1: terraform apply
+### step 1: terraform apply
 
 plesae change:
 - region
 - email
 - The Lambda layer ARN (ap-south-1:770693421928:layer:Klayers-p39-pillow:1) is for ap-south-1 and Python 3.9. If you change the region, you'll need to find the correct ARN for that region (e.g., from Klayers).
+
+<img width="1600" height="900" alt="s3 - a " src="https://github.com/user-attachments/assets/4b7492a7-11ee-461e-8c87-45b8a48dc8fd" />
+
+<img width="1600" height="900" alt="s3 - b" src="https://github.com/user-attachments/assets/0a2beeb1-0407-4906-9b38-9821c7d6b751" />
+
+<img width="1600" height="900" alt="s3 - c" src="https://github.com/user-attachments/assets/5bf632c7-6bfd-418d-be5a-803973cc8412" />
+
+<img width="1600" height="900" alt="s3 - d" src="https://github.com/user-attachments/assets/99e958cf-93a7-419b-b480-6d99fb721736" />
+
+<img width="1600" height="900" alt="s3 - g " src="https://github.com/user-attachments/assets/a6203907-ead8-4ea8-89e9-da533abf85db" />
+
+
+
 
 
 
@@ -107,18 +120,6 @@ plesae change:
 <img width="1600" height="900" alt="s3 - 29" src="https://github.com/user-attachments/assets/df3508c1-4e25-41cf-8eb3-9e1a97271f5e" />
 
 <img width="1600" height="900" alt="s3 - 33" src="https://github.com/user-attachments/assets/342fcfd5-596a-4d46-b5cf-58a35562b826" />
-
-<img width="1600" height="900" alt="s3 - a " src="https://github.com/user-attachments/assets/4b7492a7-11ee-461e-8c87-45b8a48dc8fd" />
-
-<img width="1600" height="900" alt="s3 - b" src="https://github.com/user-attachments/assets/0a2beeb1-0407-4906-9b38-9821c7d6b751" />
-
-<img width="1600" height="900" alt="s3 - c" src="https://github.com/user-attachments/assets/5bf632c7-6bfd-418d-be5a-803973cc8412" />
-
-<img width="1600" height="900" alt="s3 - d" src="https://github.com/user-attachments/assets/99e958cf-93a7-419b-b480-6d99fb721736" />
-
-<img width="1600" height="900" alt="s3 - g " src="https://github.com/user-attachments/assets/a6203907-ead8-4ea8-89e9-da533abf85db" />
-
-
 
 
 
