@@ -44,24 +44,14 @@ plesae change:
 i) 2 Buckets (source and resized)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 <img width="1600" height="900" alt="s3 - 1 " src="https://github.com/user-attachments/assets/f89ca183-e08e-4e08-bd11-94bb20ab4b1d" />
 
 <img width="1600" height="900" alt="s3 - 2" src="https://github.com/user-attachments/assets/19ac178b-48ae-44ed-9348-a17385939262" />
 
 <img width="1600" height="900" alt="s3 - 3" src="https://github.com/user-attachments/assets/3dae0690-d7ad-4b25-be33-a06cf2500204" />
+
+ii) Lambda
+
 
 <img width="1600" height="900" alt="s3 - 4" src="https://github.com/user-attachments/assets/f2606739-74ba-4b76-9aea-928064e8f71c" />
 
@@ -72,6 +62,10 @@ i) 2 Buckets (source and resized)
 <img width="1600" height="900" alt="s3 - 8" src="https://github.com/user-attachments/assets/494f78ff-82af-4c47-a882-9b14b8667d09" />
 
 <img width="1600" height="900" alt="s3 - 9" src="https://github.com/user-attachments/assets/94c3e356-e267-45ac-b467-99fd911a1690" />
+
+
+
+
 
 <img width="1600" height="900" alt="s3 - 10" src="https://github.com/user-attachments/assets/b609b7eb-4b95-41f5-857f-8d0efc3d9d7e" />
 
