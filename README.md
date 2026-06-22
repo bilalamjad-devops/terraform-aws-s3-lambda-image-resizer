@@ -1,3 +1,107 @@
+
+<img width="1600" height="900" alt="s3 - 1 " src="https://github.com/user-attachments/assets/f89ca183-e08e-4e08-bd11-94bb20ab4b1d" />
+
+<img width="1600" height="900" alt="s3 - 2" src="https://github.com/user-attachments/assets/19ac178b-48ae-44ed-9348-a17385939262" />
+
+<img width="1600" height="900" alt="s3 - 3" src="https://github.com/user-attachments/assets/3dae0690-d7ad-4b25-be33-a06cf2500204" />
+
+<img width="1600" height="900" alt="s3 - 4" src="https://github.com/user-attachments/assets/f2606739-74ba-4b76-9aea-928064e8f71c" />
+
+<img width="1600" height="900" alt="s3 - 6" src="https://github.com/user-attachments/assets/27ff6132-7eb0-45db-9fab-b58304161a7f" />
+
+<img width="1600" height="900" alt="s3 - 7" src="https://github.com/user-attachments/assets/eccf810b-a370-48ff-84c2-b30753763fda" />
+
+<img width="1600" height="900" alt="s3 - 8" src="https://github.com/user-attachments/assets/494f78ff-82af-4c47-a882-9b14b8667d09" />
+
+<img width="1600" height="900" alt="s3 - 9" src="https://github.com/user-attachments/assets/94c3e356-e267-45ac-b467-99fd911a1690" />
+
+<img width="1600" height="900" alt="s3 - 10" src="https://github.com/user-attachments/assets/b609b7eb-4b95-41f5-857f-8d0efc3d9d7e" />
+
+<img width="1600" height="900" alt="s3 - 11 - blur " src="https://github.com/user-attachments/assets/e2090ac5-f21e-4897-892a-13cab084051d" />
+
+<img width="1600" height="900" alt="s3 - 11" src="https://github.com/user-attachments/assets/79a129f4-0ee8-460e-89b1-7feba9322452" />
+
+<img width="1600" height="900" alt="s3 - 12" src="https://github.com/user-attachments/assets/fb431e6f-9bef-4b56-a68c-7c545c9b82b0" />
+
+<img width="1600" height="900" alt="s3 - 13" src="https://github.com/user-attachments/assets/ac304b20-2713-460f-8d8a-05e718fd2cb3" />
+
+<img width="1600" height="900" alt="s3 - 14 - blur " src="https://github.com/user-attachments/assets/fc93edf8-0bd5-4a8b-807a-da93b2fc211d" />
+
+<img width="1600" height="900" alt="s3 - 14" src="https://github.com/user-attachments/assets/b1bbe9b4-fcaf-443e-9a77-44d2dac319d7" />
+
+<img width="1600" height="900" alt="s3 - 15" src="https://github.com/user-attachments/assets/19eac6b2-0a82-4010-b077-5ecb51c26979" />
+
+<img width="1600" height="900" alt="s3 - 16" src="https://github.com/user-attachments/assets/5481fc23-8dc5-4daa-a90c-229060db3283" />
+
+<img width="1600" height="900" alt="s3 - 17" src="https://github.com/user-attachments/assets/e4c16b56-3de7-4b29-afe1-587c98b542e9" />
+
+<img width="1600" height="900" alt="s3 - 18" src="https://github.com/user-attachments/assets/05004339-a248-439a-a558-29d63a00c0ab" />
+
+<img width="1600" height="900" alt="s3 - 19" src="https://github.com/user-attachments/assets/e28c917b-133f-47aa-abd4-e3002c0627c3" />
+
+<img width="1600" height="900" alt="s3 - 20" src="https://github.com/user-attachments/assets/24cc2759-0cf4-475a-81fd-fdc814d821ce" />
+
+<img width="1600" height="900" alt="s3 - 21" src="https://github.com/user-attachments/assets/3c216e11-24f8-474a-bf6e-ab18af3d327d" />
+
+<img width="1600" height="900" alt="s3 - 22" src="https://github.com/user-attachments/assets/3d064cf1-5016-4d99-921b-ee2ef9113648" />
+
+<img width="1600" height="900" alt="s3 - 23" src="https://github.com/user-attachments/assets/a1932e81-76aa-4133-8a1e-e851ac5f28be" />
+
+<img width="1600" height="900" alt="s3 - 24" src="https://github.com/user-attachments/assets/beb86cc0-f25e-4832-818a-a1b75c19d7ef" />
+
+<img width="1600" height="900" alt="s3 - 25" src="https://github.com/user-attachments/assets/27239319-484e-40a1-8eef-7a8426308f43" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 **Image Magic: Build an Automated Image Resizing Pipeline with Email Alerts using AWS S3, Lambda, SNS & Terraform (Step-by-Step)**
 
 In today’s visually-driven digital world, images make or break user experience. Slow-loading large images hurt SEO, increase bandwidth costs, and frustrate users on mobile devices. Yet manually resizing and optimizing every uploaded image is tedious, error-prone, and doesn’t scale.
