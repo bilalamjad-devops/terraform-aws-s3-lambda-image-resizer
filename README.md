@@ -63,7 +63,7 @@ ii) Lambda
 
 <img width="1600" height="900" alt="s3 - 9" src="https://github.com/user-attachments/assets/94c3e356-e267-45ac-b467-99fd911a1690" />
 
-
+iii) SNS
 
 
 
