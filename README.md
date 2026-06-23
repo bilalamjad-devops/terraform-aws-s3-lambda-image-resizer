@@ -123,6 +123,8 @@ iii) SNS
 
 <img width="1600" height="900" alt="s3 - 27" src="https://github.com/user-attachments/assets/32e10925-9b28-47a6-81ad-62bc11602874" />
 
+### terraform destroy
+
 <img width="1600" height="900" alt="s3 - 28" src="https://github.com/user-attachments/assets/83638ae9-2465-4050-93e7-53f04e179267" />
 
 <img width="1600" height="900" alt="s3 - 29" src="https://github.com/user-attachments/assets/df3508c1-4e25-41cf-8eb3-9e1a97271f5e" />
