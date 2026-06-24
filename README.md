@@ -172,7 +172,17 @@ Review the following:
 * Trigger
 * IAM Execution Role
 
-*(Insert Lambda screenshots.)*
+<img width="1600" height="900" alt="s3 - 4" src="https://github.com/user-attachments/assets/0bd53486-cdd4-4d8d-b4de-a290ac0a6b76" />
+
+<img width="1600" height="900" alt="s3 - 6" src="https://github.com/user-attachments/assets/d96cc81e-91e8-4cae-a323-c93dbcac33ec" />
+
+<img width="1600" height="900" alt="s3 - 7" src="https://github.com/user-attachments/assets/a2d6c372-490b-42b3-aa16-2d7ad0d8fef4" />
+
+<img width="1600" height="900" alt="s3 - 8" src="https://github.com/user-attachments/assets/d39a0703-b499-4ff4-99c5-8436da573d33" />
+
+<img width="1600" height="900" alt="s3 - 9" src="https://github.com/user-attachments/assets/1428cd0b-865e-4406-904d-9066ad51141e" />
+
+
 
 ---
 
