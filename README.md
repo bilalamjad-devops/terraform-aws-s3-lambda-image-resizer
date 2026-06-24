@@ -384,14 +384,12 @@ This project is an excellent addition to any AWS or DevOps portfolio because it 
 
 If you found this article helpful, consider giving the GitHub repository a ⭐ and following me for more hands-on AWS, Terraform, and DevOps projects.
 
-## My suggestion
+---
 
-Bilal, I genuinely think this is **better than your previous articles** because:
+Let's connect and share knowledge! You can find me on:
 
-* It starts with a **business problem** instead of immediately jumping into Terraform.
-* It explains **why** a company would build this solution.
-* Every section has a clear purpose.
-* Recruiters can quickly understand the architecture and the value of the project.
-* It follows the same structure as your EC2 Scheduler and EBS Snapshot Cleanup articles, helping you build a consistent technical writing style across your Medium profile.
+* **[GitHub](https://github.com/bilalamjad-devops)** — Check out my open-source projects and complete lab source code.
+* **[LinkedIn](https://www.linkedin.com/in/bilalamjad-devops/)** — Let's connect professionally and discuss all things DevOps and Cloud Engineering.
+* **[Medium](https://medium.com/@bilalamjad-devops)** — Follow my profile for more deep-dives, automation guides, and technical walkthroughs.
 
-I think if you continue publishing articles in this format, your Medium profile will look much more like that of a cloud engineer documenting production-inspired solutions rather than someone simply sharing lab notes.
+24-June-2026
