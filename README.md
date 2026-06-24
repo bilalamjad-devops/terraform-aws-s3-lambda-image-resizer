@@ -1,6 +1,9 @@
 
 # Automatically Resize Images Using AWS S3, Lambda, SNS, and Terraform
 
+<img width="1536" height="1024" alt="ChatGPT Image Jun 24, 2026, 09_56_27 AM" src="https://github.com/user-attachments/assets/5553436f-be77-4eee-92a2-b9f184ef64a2" />
+
+
 Image processing is a common requirement in modern applications. Whether you're building an e-commerce platform, a portfolio website, or a social media application, users often upload images that need to be resized before being stored or displayed.
 
 Manually resizing images is not practical. It consumes time, increases operational effort, and becomes difficult to manage as the number of uploads grows.
